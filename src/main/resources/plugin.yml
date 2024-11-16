@@ -1,0 +1,4 @@
+name: StatsSpigotPlugin
+version: '1.0.0'
+main: club.somc.statsSpigotPlugin.StatsSpigotPlugin
+api-version: '1.20'
